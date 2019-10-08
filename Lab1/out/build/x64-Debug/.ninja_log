@@ -1,0 +1,18 @@
+# ninja log v5
+18	619	592147840	CMakeFiles/Lab1_task5.dir/src/task5_main.c.obj	1a4b125584eed542
+6	622	592147840	CMakeFiles/Lab1_task1.dir/src/task1.c.obj	c961da6b00306c5c
+2	625	592147840	CMakeFiles/Lab1_task2.dir/src/task2.c.obj	a98c2063a3857a5a
+9	626	592147840	CMakeFiles/Lab1_task4.dir/src/task4.c.obj	7a5ac2722ca59524
+12	626	592147840	CMakeFiles/Lab1_task3.dir/src/task3.c.obj	1722dd1e467a0002
+16	375	592147852	CMakeFiles/Lab1_task5.dir/src/task5_func.c.obj	6d599074dba62954
+2	1131	592147853	Lab1_task1.exe	af1ead70ce580d5c
+10	1160	592147853	Lab1_task4.exe	15b017e423cbb7ac
+6	1195	592147853	Lab1_task2.exe	569d41ed57464ed1
+13	1203	592147853	Lab1_task3.exe	a4f7bc00cd58bd63
+10	695	592147926	CMakeFiles/Lab1_task7.dir/src/task7_main.c.obj	a8dd395f5ba33b9a
+13	698	592147926	CMakeFiles/Lab1_task7.dir/src/task7_func.c.obj	c248ab8b2953e44
+20	709	592147926	CMakeFiles/Lab1_task8_lib.dir/src/task7_func.c.obj	f0a58e93247dfd6e
+1	989	592147927	Lab1_task5.exe	8e72bce4b3a2c1a1
+9	193	592148108	Lab1_task8_lib.lib	d34892751be22b2d
+12	225	592148108	CMakeFiles/Lab1_task8.dir/src/task7_main.c.obj	281eeddca31d2bef
+15	637	592148109	Lab1_task7.exe	a26a3b920be178c

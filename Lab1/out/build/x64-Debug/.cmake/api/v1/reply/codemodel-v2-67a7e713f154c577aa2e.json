@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task1-Debug-996248b8819e7ca65bf0.json",
+					"name" : "Lab1_task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task2-Debug-9544dd601585bfa25ea8.json",
+					"name" : "Lab1_task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task3-Debug-d43cae1c121840e66732.json",
+					"name" : "Lab1_task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task4-Debug-f3ffcffb3b67b7d9b457.json",
+					"name" : "Lab1_task4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task5-Debug-6e757ee86259a7c36048.json",
+					"name" : "Lab1_task5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task6-Debug-6888a6aaeca8e602a01c.json",
+					"name" : "Lab1_task6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task7-Debug-87923ba964428cd657f3.json",
+					"name" : "Lab1_task7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task8-Debug-19580d882e66f0bd3f35.json",
+					"name" : "Lab1_task8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab1_task8_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab1_task8_lib-Debug-472bf3bb5bdf79a19bb7.json",
+					"name" : "Lab1_task8_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/1/Downloads/практика/Lab1/out/build/x64-Debug",
+		"source" : "C:/Users/1/Downloads/практика/Lab1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
