@@ -1,7 +1,7 @@
 #include "stdio.h"
 #include "locale.h"
 
-//enum Exam { STKU, STVISIS, STU, OTS, EMPIV, TSOS };
+//enum Exam { STKU, Electron, OTS, TETSKur, Phys, EMPIV };
 enum MarkEnum { A = 5, B = 4, C = 3, D = 2};
 
 struct BookList
