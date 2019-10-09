@@ -2,5 +2,5 @@
 
 double a(int i)
 {
-	return pow(-1, i) * ( (i + 1) / (pow(3, i) + pow(2, i)) );
+	return pow(-1, i) * (2 *(i + 1) / 2*(i+1));
 }

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Lab1_task6.exe",
+      "name": "Lab1_task6.exe"
+    }
+  ]
+}

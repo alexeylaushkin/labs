@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_do_while_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_do_while_main-Debug-9d6e457494b39f104c0c.json",
+					"name" : "Lab3_do_while_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_for_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_for_main-Debug-08a9c9c0dbd89ed31589.json",
+					"name" : "Lab3_for_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lab3_while_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lab3_while_main-Debug-74d589770db368947496.json",
+					"name" : "Lab3_while_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/1/Downloads/практика/Lab3/out/build/x64-Debug",
+		"source" : "C:/Users/1/Downloads/практика/Lab3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
